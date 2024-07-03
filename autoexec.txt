@@ -4,5 +4,5 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
     Icon = "rbxassetid://18268671683", -- 18268671683 FOR  
     Duration = 9
 })
--- Until we get real ones
-getgenv().getscriptbytecode = function() print('fake functiion niga') return "faku" end
+-- Until we get real ones, WE GOT REEAL
+--getgenv().getscriptbytecode = function() print('fake functiion niga') return "faku" end

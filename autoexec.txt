@@ -5,4 +5,4 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
     Duration = 9
 })
 -- Until we get real ones
-getgenv().getcallbackvalue = function() return "faku" end
+getgenv().getscriptbytecode = function() print('fake functiion niga') return "faku" end

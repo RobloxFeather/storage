@@ -4,5 +4,3 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
     Icon = "rbxassetid://18268671683", -- 18268671683 FOR  
     Duration = 9
 })
--- Until we get real ones
---getgenv().getscriptbytecode = function() return "not impl" end

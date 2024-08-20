@@ -1,3 +1,6 @@
+local linking = game:GetService("LinkingService")
+linking = nil
+
 game:GetService("StarterGui"):SetCore("SendNotification",{
     Title = ".gg/getfeather",
     Text = "Powered by FeatherAPI",
